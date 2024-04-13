@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "邓祥志 / 个人学术主页"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "邓祥志"
+description              : &description "一名推荐算法工程师"
 url                      : https://newbie0621.github.io/dengxiangzhi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "newbie0621/dengxiangzhi.github.io"
@@ -25,8 +25,8 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "中国·江苏·南京"
+  employer         : "西南石油大学"
   uri              : # URL
   email            : "none@example.org"
 
