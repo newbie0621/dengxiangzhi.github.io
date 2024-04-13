@@ -14,7 +14,7 @@ redirect_from:
 
 扫码加我的微信
 
-![](../images/wechat.jpg)
+![](../images/wechat.png)
 
 下面是我发表的论文
 [Estimating Node Importance in Knowledge Graphs Using
