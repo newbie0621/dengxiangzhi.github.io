@@ -7,28 +7,28 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "中国·江苏·南京"
-title                    : "邓祥志 / 个人学术主页"
+locale                   : "en-US"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "邓祥志"
-description              : &description "一名推荐算法工程师"
-url                      : https://dengxiangzhi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "newbie0621/dengxiangzhi.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/证件照.png"
+  avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "中国·江苏·南京"
-  employer         : "西南石油大学"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "DengXZ0621@163.com@example.org"
+  email            : "none@example.org"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
